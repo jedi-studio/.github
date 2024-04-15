@@ -4,7 +4,7 @@
 
 ---
 * :books: 3+ years in open source.
-* :computer: +3 Developers working to make coding become easier.
+* :computer: +2 Developers working to make coding become easier.
 * :office: 3,000 commits per month.
 ---
 
